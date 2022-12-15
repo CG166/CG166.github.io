@@ -20,6 +20,6 @@ Lab 6, part 1 was a favorite of mine because it was a fun process of trial and e
 
 * Lab 7
 
-Lab 7, part 2 was a favorite of mine because it was really engaging to take the rules and logistics of a real life game, and then try to create that game using the programming skills we’d learned. It was a tricky, but rewarding process getting the card values to match with the appropriate user inputs. Getting the Ace card value to change depending on the condition of the player’s score was also a very interesting and enjoyable hurdle.
+Lab 7, part 2 was a favorite of mine because it was really engaging to take the rules and logistics of a real life game, and then try to create that game using the programming skills we’d learned. It was a tricky, but rewarding process getting the card values to match with the appropriate user inputs, as well as learning how to properly check the validity of user input. Getting the Ace card value to change depending on the condition of the player’s score was also a very interesting and enjoyable hurdle.
 
 
