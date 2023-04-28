@@ -1,16 +1,16 @@
-# Hello World
+# Portfolio
 
-This is my home page! My name is Cindy Garcia and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+Hello, this is my home page! My name is Cindy Garcia and I am an undegraduate student of Computer Science at [Cal State Fullerton](http://www.fullerton.edu/).
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/CG166.
+This is a portfolio containing a couple of programming assignments I have completed for some of my Computer Science classes at Cal State Fullerton. My GitHub page is at http://github.com/CG166.
 
 ### CPSC 120
 
-* Lab 5
+** A Project in Creating Simple Animations **
 
-Lab 5, part 1 was a favorite of mine because it showed me the mechanics of user input. It got me thinking of the potential an activity like this holds when it comes to building simple applications. It was a bit difficult getting a good handle on using command arguments, but it really helped me explore the bounds of user-program interaction.
+*Link*: [Simple Animations](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-12-cindy.git)
 
 
 * Lab 6
