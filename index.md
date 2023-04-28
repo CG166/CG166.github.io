@@ -6,7 +6,7 @@ Hello, this is my home page! My name is Cindy Garcia and I am an undegraduate st
 
 This is a portfolio containing a couple of programming assignments I have completed for some of my Computer Science classes at Cal State Fullerton. My GitHub page is at http://github.com/CG166.
 
-### CPSC 120
+### Projects
 
 * A Project in creating simple animations
 
